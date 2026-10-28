@@ -1,0 +1,6 @@
+url: https://github.com/chengzhao-dev/dsh-cpp-workflow
+name: chengzhao-dev/dsh-cpp-workflow
+category: skill
+description:
+  en: 'Write C++ sources, configure CMake, and build with Clang; use /// Doxygen on declarations and // section notes in bodies, with configurable comment tags in the plugin settings page.'
+  zh: '写 C++ 源码、配 CMake、用 Clang 构建；头文件用 /// Doxygen 文档注释，函数体用 // 分段说明，文件头与函数注释标签可在插件设置页修改。'
